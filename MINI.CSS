@@ -1,0 +1,19 @@
+form{
+    background-color:black;
+    color:green;
+    font-family:monospace;
+    text-align:center;
+    font-size:30px;
+}
+
+a{
+    font-size:30px;
+    background-color:blue;
+    color:yellow;
+}
+
+input{
+
+    width:100px;
+
+}
